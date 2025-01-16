@@ -1,0 +1,6 @@
+1. mkdir <name> make directory creates folder
+2. cd <name> change directory
+3. code <name> makes file
+4. ls (list) shows current directory files
+5. pwd prints working directory aka path
+6. clear
