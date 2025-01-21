@@ -12,5 +12,6 @@ int main() {
     perim = square_side*4;
     area = square_side*square_side;
     printf("The perimiter is %d and the area is %d.\n", perim, area);
+    printf("%d\n", 603/100);
     return 0;
 }
